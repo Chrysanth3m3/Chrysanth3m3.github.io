@@ -11,3 +11,5 @@ He gets missions and always chooses to accept them, even though he can't be with
 
 > This is a quote by Ethan Hunt.
 > A block quote.
+
+<img src="https://bilder.t-online.de/b/52/12/08/64/id_52120864/tid_da/er-ist-zurueck-tom-cruise-als-ethan-hunt-in-mission-impossible-phantom-protokoll-.jpg"/>
