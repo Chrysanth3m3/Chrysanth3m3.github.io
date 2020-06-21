@@ -8,3 +8,6 @@ He gets missions and always chooses to accept them, even though he can't be with
 * runs really fast
 * is always able to complete the impossible mission
 * has a good team
+
+> This is a quote by Ethan Hunt.
+> A block quote.
